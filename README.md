@@ -11,7 +11,11 @@
 
 ### My Tools...
 
-
+</br>
+</br>
+[![SangWoo9734's github stats](https://github-readme-stats.vercel.app/api?username=SangWoo9734)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangWoo9734&layout=compact)](https://github.com/anuraghazrSana/github-readme-stats)
+<hr>
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:START -->
