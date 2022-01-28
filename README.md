@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwoo9734&label=Profile%20views&color=0e75b6&style=flat" alt="sangwoo9734" /> </p>
 
-<h3 align="left">👨🏻‍💻 A passionate Junior frontend developer</h3>
+<h2 align="left">👨🏻‍💻 A passionate Junior frontend developer</h2>
 <div>✔️ 명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.</div>
 <div>✔️ TDD(테스트 주도 개발)을 지향합니다.</div>
 <div>✔️ 기술과 새로운 지식에 대한 호기심이 많아 배우는 것을 즐깁니다</div>
