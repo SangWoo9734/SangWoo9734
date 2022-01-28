@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwoo9734&label=Profile%20views&color=0e75b6&style=flat" alt="sangwoo9734" /> </p>
+
 <h1 align="left">👨🏻‍💻 프론트엔드 주니어 개발자 박상우입니다.</h1>
 <div>✔️ 명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.</div>
 <div>✔️ TDD(테스트 주도 개발)을 지향합니다.</div>
@@ -33,9 +35,13 @@
 </div>
 
 <h3>🖥 GitHub Analytics</h3>
-<p width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangwoo9734&show_icons=true&locale=en&layout=compact" alt="sangwoo9734" width="" height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangwoo9734&show_icons=true&locale=en" alt="sangwoo9734" height="200"/>
-</p>
+<p>
+  <a href="https://github.com/SangWoo9734">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwoo9734&theme=tokyonight" />
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwoo9734&label=Profile%20views&color=0e75b6&style=flat" alt="sangwoo9734" /> </p>
+  <a href="https://github.com/SangWoo9734">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sangwoo9734&show_icons=true&theme=tokyonight&line_height=27" alt="Github Gtats"/>
+  </a>
+
+</p>
