@@ -8,10 +8,10 @@
 
 <h3 align="left">👀 Connect with me:</h3>
 <div align="left">
-<a href="https://u-pic-code.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:psu8430@gmail.com"><img src="https://img.shields.io/badge/-psu8430@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/woo_llalla"><img src="https://img.shields.io/badge/-woo_llalla-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.notion.so/Portfolio-5220bbc3c0f64d06bf5f6357f943fe10"><img src="https://img.shields.io/badge/-Notion-1DA1F2?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Portfolio-5220bbc3c0f64d06bf5f6357f943fe10"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://u-pic-code.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="mailto:psu8430@gmail.com"><img src="https://img.shields.io/badge/-psu8430@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/woo_llalla"><img src="https://img.shields.io/badge/-woo_llalla-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
 <h3 align="left"> ⚒ Languages and Tools:</h3>
