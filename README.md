@@ -1,19 +1,41 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwoo9734&label=Profile%20views&color=0e75b6&style=flat" alt="sangwoo9734" /> </p>
 
-- 🔭 I’m currently working on <strong>Teamlab</strong>
-- 🌱 I’m currently learning what I am interested in...
-- 👯 I’m looking to collaborate with other Engineer
-- 📚 My major: Industrial Management Engineering, Software Engineering
-- ⚡ Fun fact: I 💜 ⚽, 📷, and... 🎮
+<h3 align="left">👨🏻‍💻 A passionate Junior frontend developer</h3>
+<div>✔️ 명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.</div>
+<div>✔️ TDD(테스트 주도 개발)을 지향합니다.</div>
+<div>✔️ 기술과 새로운 지식에 대한 호기심이 많아 배우는 것을 즐깁니다</div>
+<div>✔️ 정한 목표를 반드시 달성하며 스트레스 관리 능력이 좋은 편입니다</div>
 
-### Connect with me ...
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=Blogger&logoColor=white&link=https://u-pic-code.tistory.com/)](https://u-pic-code.tistory.com/) [![Instagram Badge](https://img.shields.io/badge/-Intagram-hotpink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/woo_llalla/?hl=ko)](https://www.instagram.com/woo_llalla/?hl=ko) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrtkddn8430@gmail.com)](mailto:qkrtkddn8430@gmail.com)
+<h3 align="left">👀 Connect with me:</h3>
+<div align="left">
+<a href="https://u-pic-code.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:psu8430@gmail.com"><img src="https://img.shields.io/badge/-psu8430@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/woo_llalla"><img src="https://img.shields.io/badge/-woo_llalla-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/Portfolio-5220bbc3c0f64d06bf5f6357f943fe10"><img src="https://img.shields.io/badge/-Notion-1DA1F2?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+</div>
 
-### My Tools...
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
+<h3 align="left"> ⚒ Languages and Tools:</h3>
+<div align="left">
+  <div>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" >
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
+  </div>
+</div>
 
-### About My Work...
-[![SangWoo9734's github stats](https://github-readme-stats.vercel.app/api?username=SangWoo9734)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangWoo9734&layout=compact)](https://github.com/anuraghazrSana/github-readme-stats)<br />
-<br />
+<h3>🖥 GitHub Analytics</h3>
+<p width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangwoo9734&show_icons=true&locale=en&layout=compact" alt="sangwoo9734" width="" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangwoo9734&show_icons=true&locale=en" alt="sangwoo9734" height="200"/>
+</p>
