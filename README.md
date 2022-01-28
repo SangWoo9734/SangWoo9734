@@ -6,6 +6,8 @@
 <div>✔️ 기술과 새로운 지식에 대한 호기심이 많아 배우는 것을 즐깁니다</div>
 <div>✔️ 정한 목표를 반드시 달성하며 스트레스 관리 능력이 좋은 편입니다</div>
 
+<br />
+
 <h3 align="left">👀 Connect with me:</h3>
 <div align="left">
   <a href="https://www.notion.so/Portfolio-5220bbc3c0f64d06bf5f6357f943fe10"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -34,7 +36,7 @@
   </div>
 </div>
 
-<h3>🖥 GitHub Analytics</h3>
+<h3>🖥 GitHub Analytics:</h3>
 <p>
   <a href="https://github.com/SangWoo9734">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwoo9734&theme=tokyonight" />
