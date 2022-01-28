@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwoo9734&label=Profile%20views&color=0e75b6&style=flat" alt="sangwoo9734" /> </p>
 
-<h1 align="left">👨🏻‍💻 프론트엔드 주니어 개발자 박상우입니다.</h1>
-<div>✔️ 명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.</div>
-<div>✔️ TDD(테스트 주도 개발)을 지향합니다.</div>
+<h1 align="left">👨🏻‍💻 프론트엔드 주니어 개발자 박상우입니다</h1>
+<div>✔️ 명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다</div>
+<div>✔️ TDD(테스트 주도 개발)을 지향합니다</div>
 <div>✔️ 기술과 새로운 지식에 대한 호기심이 많아 배우는 것을 즐깁니다</div>
 <div>✔️ 정한 목표를 반드시 달성하며 스트레스 관리 능력이 좋은 편입니다</div>
 
