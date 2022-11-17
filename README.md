@@ -21,15 +21,16 @@
     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" >
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=02569B" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
     <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" />
   </div>
 </div>
