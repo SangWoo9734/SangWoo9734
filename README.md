@@ -34,15 +34,3 @@
     <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" />
   </div>
 </div>
-
-<h3>🖥 GitHub Analytics:</h3>
-<p>
-  <a href="https://github.com/SangWoo9734">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwoo9734&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/SangWoo9734">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sangwoo9734&show_icons=true&theme=tokyonight&line_height=27" alt="Github Gtats"/>
-  </a>
-
-</p>
