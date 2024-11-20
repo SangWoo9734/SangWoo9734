@@ -8,29 +8,24 @@
 
 <br />
 
-<h3 align="left">👀 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.notion.so/Portfolio-5220bbc3c0f64d06bf5f6357f943fe10"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-  <a href="https://u-pic-code.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="mailto:psu8430@gmail.com"><img src="https://img.shields.io/badge/-psu8430@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</div>
-
 <h3 align="left"> ⚒ Languages and Tools:</h3>
 <div align="left">
   <div>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" >
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2" />
+    <img src="https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactquery" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=zustand" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D" />
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=02569B" />
+    <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2" />
+    <img src="https://img.shields.io/badge/-PWA-05122A?style=flat&logo=PWA&logoColor=5A0FC8" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
     <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" />
+    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D" />
   </div>
 </div>
